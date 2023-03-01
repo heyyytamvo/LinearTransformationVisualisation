@@ -235,7 +235,7 @@ We can find the output at the folder `outputForLinearTransformation`, then you c
 
 ## Authors and acknowledgment
 
-This project is inpired by these following sources:
+This project is inspired by these following sources:
 
 * [dododas](https://github.com/dododas)
 * [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
